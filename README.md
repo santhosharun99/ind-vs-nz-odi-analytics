@@ -25,3 +25,6 @@ An interactive cricket analytics dashboard visualizing the 2023 India vs New Zea
    ```bash
    streamlit run dashboard.py
    ```
+
+## Data
+Ball-by-ball data for the three ODIs (January 2023) was web-scraped from public online match commentary and saved as CSVs in `data/`. Rights to the underlying match data stay with the original publishers.
